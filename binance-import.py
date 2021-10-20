@@ -1,6 +1,6 @@
 # Imports crypto currency pair OHLCV data from binance
 # Saves as .csv formatted specifically for RealTest
-# Output to script folder
+
 
 import ccxt
 import pandas as pd
